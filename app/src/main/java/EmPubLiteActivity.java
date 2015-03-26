@@ -1,7 +1,7 @@
-package com.commonsware.empublite;
-
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.commonsware.empublite.R;
 
 public class EmPubLiteActivity extends Activity {
     @Override
